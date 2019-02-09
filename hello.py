@@ -1,1 +1,0 @@
-print("Hello world ..\n I'm python running from VC ")
