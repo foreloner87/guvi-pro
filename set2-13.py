@@ -10,7 +10,7 @@ if(n>0):
             l1.append(s1)
             l2.append(s2)
         for j in range(q):
-            print(min(l[(l1[j]-1):(l2[j]-1)]))
+            print(min(l[(l1[j]-1):(l2[j])]))
     if(n==1):
         s=int(input())
         for j in range(q):
